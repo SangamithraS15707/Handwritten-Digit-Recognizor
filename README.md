@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition (KNN) — Streamlit App
 
-Small Streamlit app that lets you draw a digit (0–9) and predicts it using a pre-trained KNN model.
+Small Streamlit app that lets you draw a digit (0–9) and predicts it using a KNN model.
 
 ## Project layout
 - app.py — Streamlit frontend
@@ -52,3 +52,4 @@ joblib.dump(scaler, "scaler.joblib")
 
 ## License
 MIT
+
